@@ -11,11 +11,10 @@ WITH max_frac_by_date AS (SELECT
     GROUP BY
         ranking_date     
     HAVING
-        MAX(pts)>10)
+        MAX(pts)>10) -- Sanity check, I have some strange values there
 SELECT
     ROW_NUMBER () OVER (ORDER BY frac),
     p.lastname,
-    r.player_id,
     r.ranking_date,
     m.frac 
 FROM
