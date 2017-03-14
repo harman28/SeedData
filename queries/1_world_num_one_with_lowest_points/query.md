@@ -9,7 +9,9 @@ WITH max_frac_by_date AS (SELECT
     FROM
         rankings r     
     GROUP BY
-        ranking_date     
+        ranking_date
+--  WHERE            -- Optimisation to ensure 'available' points
+--      pos<=50      -- are all 'from the same pie'
     HAVING
         MAX(pts)>10) -- Sanity check, I have some strange values there
 SELECT
