@@ -1,0 +1,103 @@
+  tourney_name   | year |     player_name      | sum 
+-----------------+------+----------------------+-----
+ Australian Open | 1981 | Steve Denton         | 295
+ US Open         | 1986 | Miloslav Mecir       | 293
+ Wimbledon       | 1985 | Boris Becker         | 292
+ Wimbledon       | 1983 | Chris Lewis NZL      | 289
+ US Open         | 1969 | Tony Roche           | 288
+ US Open         | 1969 | John Newcombe        | 287
+ Wimbledon       | 1969 | John Newcombe        | 286
+ Roland Garros   | 1981 | Ivan Lendl           | 284
+ US Open         | 1974 | Roscoe Tanner        | 284
+ Wimbledon       | 1969 | Arthur Ashe          | 283
+ US Open         | 1973 | Jan Kodes            | 282
+ US Open         | 1968 | Tom Okker            | 282
+ Wimbledon       | 2009 | Andy Roddick         | 279
+ US Open         | 1969 | Rod Laver            | 278
+ Wimbledon       | 1977 | Bjorn Borg           | 277
+ Wimbledon       | 1987 | Ivan Lendl           | 277
+ Wimbledon       | 1977 | Jimmy Connors        | 277
+ Wimbledon       | 1973 | Jan Kodes            | 276
+ Wimbledon       | 1988 | Stefan Edberg        | 275
+ Roland Garros   | 1976 | Harold Solomon       | 273
+ Wimbledon       | 1986 | Ivan Lendl           | 273
+ Australian Open | 2004 | Marat Safin          | 272
+ Wimbledon       | 1974 | Jimmy Connors        | 271
+ Australian Open | 2006 | Marcos Baghdatis     | 270
+ US Open         | 1973 | John Newcombe        | 270
+ Wimbledon       | 1981 | John Mcenroe         | 269
+ Wimbledon       | 2001 | Patrick Rafter       | 269
+ US Open         | 1972 | Arthur Ashe          | 268
+ Us Open         | 2016 | Stanislas Wawrinka   | 268
+ Wimbledon       | 1986 | Slobodan Zivojinovic | 268
+ Wimbledon       | 1988 | Ivan Lendl           | 267
+ Wimbledon       | 1975 | Arthur Ashe          | 267
+ Wimbledon       | 1970 | John Newcombe        | 267
+ Roland Garros   | 1997 | Gustavo Kuerten      | 266
+ Australian Open | 2017 | Roger Federer        | 266
+ Wimbledon       | 1972 | Stan Smith           | 265
+ US Open         | 1993 | Cedric Pioline       | 265
+ US Open         | 1971 | Jan Kodes            | 265
+ Roland Garros   | 1970 | Zeljko Franulovic    | 264
+ Wimbledon       | 1970 | Roger Taylor         | 264
+ Roland Garros   | 1999 | Andre Agassi         | 264
+ US Open         | 1972 | Ilie Nastase         | 264
+ Australian Open | 2002 | Thomas Johansson     | 264
+ Australian Open | 2005 | Lleyton Hewitt       | 264
+ US Open         | 2005 | Andre Agassi         | 263
+ Wimbledon       | 1994 | Todd Martin          | 263
+ Australian Open | 1983 | Tim Gullikson        | 263
+ Wimbledon       | 1979 | Pat Dupre            | 263
+ US Open         | 1980 | Bjorn Borg           | 262
+ Wimbledon       | 1980 | John Mcenroe         | 262
+ Australian Open | 2017 | Rafael Nadal         | 262
+ Australian Open | 2010 | Marin Cilic          | 261
+ US Open         | 1992 | Stefan Edberg        | 261
+ Wimbledon       | 1969 | Tony Roche           | 261
+ Roland Garros   | 1989 | Michael Chang        | 261
+ Roland Garros   | 2004 | Gaston Gaudio        | 261
+ Wimbledon       | 1979 | Tom Gullikson        | 261
+ Wimbledon       | 1990 | Boris Becker         | 260
+ US Open         | 2003 | Juan Carlos Ferrero  | 260
+ Roland Garros   | 2016 | Andy Murray          | 259
+ Roland Garros   | 2003 | Albert Costa         | 259
+ Roland Garros   | 1988 | Henri Leconte        | 259
+ Wimbledon       | 1974 | Ken Rosewall         | 256
+ Wimbledon       | 1995 | Pete Sampras         | 256
+ Roland Garros   | 1979 | Tim Gullikson        | 255
+ Roland Garros   | 1976 | Adriano Panatta      | 255
+ Roland Garros   | 1988 | Mats Wilander        | 255
+ US Open         | 2010 | Novak Djokovic       | 255
+ US Open         | 1980 | John Mcenroe         | 255
+ Roland Garros   | 2000 | Gustavo Kuerten      | 254
+ Wimbledon       | 1979 | Bjorn Borg           | 254
+ US Open         | 2005 | Robby Ginepri        | 253
+ Roland Garros   | 1986 | Mikael Pernfors      | 252
+ Australian Open | 1987 | Pat Cash             | 252
+ Roland Garros   | 2012 | Novak Djokovic       | 252
+ Wimbledon       | 1979 | Roscoe Tanner        | 252
+ Roland Garros   | 1998 | Cedric Pioline       | 251
+ Wimbledon       | 1973 | Roger Taylor         | 251
+ Roland Garros   | 2005 | Mariano Puerta       | 251
+ Roland Garros   | 1987 | Ivan Lendl           | 250
+ Roland Garros   | 1982 | Mats Wilander        | 250
+ Wimbledon       | 2010 | Rafael Nadal         | 250
+ Roland Garros   | 2002 | Albert Costa         | 250
+ Wimbledon       | 1969 | Rod Laver            | 249
+ Australian Open | 1999 | Nicolas Lapentti     | 249
+ Australian Open | 1991 | Boris Becker         | 248
+ Roland Garros   | 1993 | Richard Krajicek     | 248
+ Wimbledon       | 1968 | Rod Laver            | 248
+ US Open         | 1968 | Arthur Ashe          | 247
+ Australian Open | 1998 | Nicolas Escude       | 247
+ Wimbledon       | 1992 | Andre Agassi         | 247
+ Wimbledon       | 2009 | Roger Federer        | 247
+ Australian Open | 1995 | Pete Sampras         | 247
+ US Open         | 1988 | Ivan Lendl           | 247
+ Wimbledon       | 2001 | Goran Ivanisevic     | 246
+ US Open         | 1992 | Pete Sampras         | 246
+ Roland Garros   | 1991 | Jim Courier          | 246
+ Roland Garros   | 1979 | Victor Pecci         | 246
+ Wimbledon       | 1980 | Bjorn Borg           | 246
+ Wimbledon       | 1993 | Jim Courier          | 246
+(100 rows)
